@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.acme.pricereduction;
 
 import java.util.Hashtable;
 import java.util.List;

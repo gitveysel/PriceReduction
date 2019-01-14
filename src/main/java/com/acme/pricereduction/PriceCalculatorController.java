@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.acme.pricereduction;
 
 import java.io.IOException;
 import java.nio.file.Files;

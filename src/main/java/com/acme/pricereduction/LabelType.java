@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.acme.pricereduction;
 
 import java.text.MessageFormat;
 
